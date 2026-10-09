@@ -1,5 +1,3 @@
-# Elfvain Studios
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:263746,100:00B2A9&height=220&section=header&text=ELFVAIN%20STUDIOS&fontSize=48&fontColor=ffffff&fontAlignY=38&descSize=18&descAlignY=58" width="100%" alt="Elfvain Studios" />
 </p>
